@@ -22,7 +22,7 @@ let _7SegII = 0
 let _7SegImg: Image = null
 
 //% color="#AA278D"
-namespace MyRuneGenerator {
+namespace My_Rune_Generator {
     //% block
     export function GenerateRune(Col: number, Inverted: boolean) {
         _7SegImg = img`
